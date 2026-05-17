@@ -61,6 +61,13 @@
             android:layout_height="wrap_content"
             android:hint="Location"/>
 
+        <Button
+            android:id="@+id/btnCurrentLocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="GET CURRENT LOCATION"
+            android:layout_marginTop="10dp"/>
+
         <Spinner
             android:id="@+id/spinnerCategory"
             android:layout_width="match_parent"
