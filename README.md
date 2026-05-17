@@ -1,24 +1,16 @@
 Project description:
-LostFoundApp is an Android mobile application developed in Android Studio using Java and SQLite. This application can help users report lost and found items, making it easier for the owners to retrieve their belongings.
+LostFoundApp9.1 is an Android application developed using Java, SQLite and Google Maps API in Android Studio. This program enables users to post lost items and announcements.
 
-User can:
-Create a lost or found advertisement
-View all lost and found items
-Filter items by category
-Upload an image
-View posting timestamps
-Delete an item after it is recovered
+Features include posting lost or found advertisements, viewing information, filtering items by category, uploading items, conducting range searches using Google Maps, and displaying item locations on the map.
 
-Technologies Used:
-Java
-SQLite Database
-Android Studio
-RecyclerView
+It utilizes Java,
+SQLite database,
+Android Studio, 
+RecyclerView, 
+Google Maps API.
 
-How to Run:
-Open the project in Android Studio
-Click Run
+Operation method:
+Open the project using Android Studio, synchronize the Gradle file, and click "run" to execute.
 
-Author:
-HanRui Yang
+Author: HanRui Yang
 s223871178
